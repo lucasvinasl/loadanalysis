@@ -54,8 +54,10 @@ _O arquivo xls tem essa cara_ :
 ![image](https://github.com/lucasvinasl/loadanalysis/assets/74206824/c980e75f-3934-45be-a5c3-8f01d8c08547)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+
 **PT-BR**
+
 Esse código foi desenvolvido com o intuito de fazer uma simples análise de dados tendo como base relatórios de memória de massa dos meses de 2022 emitidos pela concessionária de energia Neoenergia COSERN para a Universidade Federal Rural do Semiárido - UFERSA campus Leste, esse relatório contém informações como potência ativa e reativa, além da variação do fator de potêncai ao longo do dia, as leituras são realizadas a cada 15 minutos, então para um mês de 30 dias temos aproximadamente 2880 registros.
 
 A partir do relatório foi possível realizar duas análises: O comportamento da Carga e o comportamento do Fator de potência.
